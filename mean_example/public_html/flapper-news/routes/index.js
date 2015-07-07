@@ -86,6 +86,6 @@ router.get('/posts/:post', function (req, res, next) {
 
         res.json(post);
     });
-});ppp
+});
 
 module.exports = router;
